@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\godine\godine\bin\Debug\godine.exe.config
+C:\Users\Ucenik\source\repos\godine\godine\bin\Debug\godine.exe
+C:\Users\Ucenik\source\repos\godine\godine\bin\Debug\godine.pdb
+C:\Users\Ucenik\source\repos\godine\godine\obj\Debug\godine.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\godine\godine\obj\Debug\godine.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\godine\godine\obj\Debug\godine.exe
+C:\Users\Ucenik\source\repos\godine\godine\obj\Debug\godine.pdb
